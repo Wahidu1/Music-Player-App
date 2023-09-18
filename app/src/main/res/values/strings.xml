@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="this_button_use_for_music_back">This Button use for music back</string>
+    <string name="music_player_app">Music Player App</string>
+    <string name="use_for_music_image">Use for music image</string>
+    <string name="song_title">Song Title</string>
+    <string name="this_button_use_for_music_play">This Button use for music play</string>
+    <string name="this_button_use_for_music_pause">This Button use for music pause</string>
+    <string name="this_button_use_for_music_forward">This Button use for music forward</string>
+    <string name="timer">00:00</string>
+</resources>
